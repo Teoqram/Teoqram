@@ -4,7 +4,8 @@ My name is **Telman Amirbeyov** and I'm a developer.
 I trust myself and I'm open to new offers. 💪  
 
 ## 🔗 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmanamirbeyov)![GitHub Follow](https://img.shields.io/github/followers/Teoqram?label=Follow&style=for-the-badge)](https://github.com/Teoqram)
+[![Follow](https://img.shields.io/github/followers/telmanamirbeyov?style=social)](https://github.com/telmanamirbeyov)[![GitHub](https://img.shields.io/badge/GitHub-%23000?style=flat&logo=github&logoColor=white)](https://github.com/telmanamirbeyov)
+
 
 ## 🚀 Languages and Tools:  
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
