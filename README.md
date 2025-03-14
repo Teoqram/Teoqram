@@ -4,7 +4,8 @@ My name is **Telman Amirbeyov** and I'm a developer.
 I trust myself and I'm open to new offers. 💪  
 
 ## 🔗 Connect with me:  
-(https://github.com/telmanamirbeyov)[![GitHub](https://img.shields.io/badge/GitHub-%23000?style=flat&logo=github&logoColor=white)](https://github.com/Teoqram)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000?style=flat&logo=github&logoColor=white)](https://github.com/Teoqram)
+
 
 
 ## 🚀 Languages and Tools:  
