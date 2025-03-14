@@ -3,8 +3,7 @@
 My name is **Telman Amirbeyov** and I'm a developer.  
 I trust myself and I'm open to new offers. 💪  
 
-## 🔗 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmanamirbeyov)  [![GitHub Follow](https://img.shields.io/github/followers/Teoqram?label=Follow&style=for-the-badge)](https://github.com/Teoqram)
+## 🔗 Connect with me:  [![Telman Əmirbəyov | LinkedIn](https://img.shields.io/badge/Telman%20Əmirbəyov-LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmanamirbeyov) [![GitHub Follow](https://img.shields.io/github/followers/Teoqram?label=Follow&style=for-the-badge)](https://github.com/Teoqram)
 
 ## 🚀 Languages and Tools:  
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
